@@ -7,11 +7,10 @@
 }
 
 .form-control:-ms-input-placeholder {
-  /* Internet Explorer 10-11 */
   color: red;
 }
 
-.form-control::-ms-input-placeholder {
+.form-control::-ms-input-placeholde{
   /* Microsoft Edge */
   color: red;
 }
